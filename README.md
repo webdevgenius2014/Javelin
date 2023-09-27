@@ -1,2 +1,2 @@
-# Jvelin
-Jvelin UI
+# Javelin
+Javelin UI
